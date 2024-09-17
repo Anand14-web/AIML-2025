@@ -1,16 +1,7 @@
-# AIML-1310
-# Artificial Intelligence and Machine learning Lab Instruction Sheets
-
-1. [lab 01] (): Introduction to Python 
-1. [lab 01] (): 
-1. [lab 01] (): 
-1. [lab 01] (): 
-1. [lab 01] (): 
-
-# Artificial Intelligence and Machine learning Lab Jupyter notebooks
-
-1. [lab 01] (): Introduction to Python 
-1. [lab 01] (): 
-1. [lab 01] (): 
-1. [lab 01] (): 
-1. [lab 01] (): 
+- 👋 Hi, I’m @vutukurusaianand1310
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
